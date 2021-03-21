@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../algorithmExercise_2/.idea/algorithmExercise_2.iml" filepath="$PROJECT_DIR$/../algorithmExercise_2/.idea/algorithmExercise_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fileMover.iml" filepath="$PROJECT_DIR$/.idea/fileMover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
